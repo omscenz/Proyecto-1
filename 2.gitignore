@@ -1,0 +1,11 @@
+# Archivos de entorno
+.env
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Archivos de pruebas y configuración local
+*.log
+*.sqlite
